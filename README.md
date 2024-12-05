@@ -10,7 +10,7 @@
 - Pandas and RegEx, Sastrawi, and NLTK for cleaning data
 - FLASK and SWAGER UI for API
 - SQLite for database
-- The NN and LSTM for sentiment (library)
+- NN and LSTM for sentiment (library)
 - Git and GitHub for collaboration
 
 ### b. Architecture
