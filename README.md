@@ -14,4 +14,4 @@
 - Git and GitHub for collaboration
 
 ### b. Architecture
-<img width="770" alt="image" src="https://user-images.githubusercontent.com/26571248/219908945-a31d14fd-13ab-45fd-8673-8e0762479204.png">
+![image_alt](https://github.com/hariyantods/Data-Science-Wave-03/blob/ac12b3781fb78fdb06fe4d96a96be52dcf767932/architecture.png)
